@@ -33,7 +33,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hammad38&" alt="hammad38" /></p>
 
-<h1 align="Center">GitHub Statistics</h1>
+<!-- <h1 align="Center">GitHub Statistics</h1>
 <p align="center">
   <a href="https://github.com/hammad38/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hammad Shoaib streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hammad38&theme=gruvbox&hide_border=true%22"/>
@@ -52,3 +52,4 @@
 
 <a href="https://github.com/hammad38?tab=followers"><img src="https://img.shields.io/github/followers/hammad38?label=Followers&style=social" alt="GitHub Badge">
 </a>
+ -->
