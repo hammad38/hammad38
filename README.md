@@ -32,3 +32,23 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hammad38&show_icons=true&locale=en" alt="hammad38" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hammad38&" alt="hammad38" /></p>
+
+<h1 align="Center">GitHub Statistics</h1>
+<p align="center">
+  <a href="https://github.com/khusamayasir/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Khawaja Usama Yasir streak" src="https://github-readme-streak-stats.herokuapp.com/?user=khusamayasir&theme=gruvbox&hide_border=true%22"/>
+  </a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khusamayasir&layout=compact&theme=gruvbox" width="350" />
+<img src="https://github-readme-stats.vercel.app/api?username=khusamayasir&theme=gruvbox&show_icons=true" width="420"/>
+</p>
+
+<h1 align="Center">Coding Activity</h1>
+<a href="https://wakatime.com/@6de2c190-3054-4520-aca4-08ad9610b0af"><img src="https://wakatime.com/badge/user/6de2c190-3054-4520-aca4-08ad9610b0af.svg" alt="Total time coded since Jul 22 2022" /></a>
+
+<h1 align="Center">Visitor's Count & Followers</h1>
+<a> <img src="https://komarev.com/ghpvc/?username=khusamayasir&label=Profile%20views&color=0e75b6&style=flat"
+    alt="khusamayasir" /> 
+</a>
+
+<a href="https://github.com/khusamayasir?tab=followers"><img src="https://img.shields.io/github/followers/khusamayasir?label=Followers&style=social" alt="GitHub Badge">
+</a>
