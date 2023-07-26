@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **Development**
 
-- 📫 How to reach me **hammadsami119@gmail.com**
+- 📫 How to reach me **hammadshdev@gmail.com**
 
 ### Connect with me
 <p align="left">
